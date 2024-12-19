@@ -1,3 +1,3 @@
-Just Effect Parallax, Enjoy.
+Just Effect Parallax
 
 ![Demostración Parallax](assets/parallax.gif)
