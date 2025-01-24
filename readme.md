@@ -1,3 +1,3 @@
-Just Effect Parallax
+Effect Parallax
 
 ![Demostración Parallax](assets/parallax.gif)
